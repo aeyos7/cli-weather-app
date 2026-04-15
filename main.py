@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = <API-KEY>
+API_KEY = <API_KEY>
 BASE_URL = "https://api.weatherapi.com/v1/current.json"
 
 while True:
